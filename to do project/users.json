@@ -1,0 +1,33 @@
+[
+  {
+    "username": "user1",
+    "password": "password1",
+    "tasks": []
+  },
+  {
+    "username": "user2",
+    "password": "password2",
+    "tasks": []
+  },
+  {
+    "username": "shaxzod ",
+    "password": "123456",
+    "tasks": []
+  },
+  {
+    "username": "shaxzod",
+    "password": "123456",
+    "tasks": [
+      {
+        "id": 1,
+        "text": " go to the gym",
+        "completed": true
+      },
+      {
+        "id": 2,
+        "text": "have a shower ",
+        "completed": false
+      }
+    ]
+  }
+]
